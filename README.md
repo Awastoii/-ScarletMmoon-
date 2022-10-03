@@ -1,0 +1,2 @@
+# -ScarletMmoon-
+以seleium库写成的python代码用以完成绯月ScarletMoon自动签到和咕咕镇每天所有任务（可修改抽卡顺序和刷野次数）
